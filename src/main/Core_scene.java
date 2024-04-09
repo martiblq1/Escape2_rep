@@ -1,0 +1,18 @@
+package main;
+
+public enum Core_scene
+{
+	WALL_WITH_COUCH,
+	WALL_WITH_BED,
+	WALL_WITH_DOOR,
+	WALL_WITH_DONKEY,
+	RED_CHAIRS,
+	RED_ROSE, 
+	RED_ARM,
+	RED_PILLAR,
+	STARTER_MENU, 
+	HOME_MENU,
+	ENDING_1,
+	ENDING_2,
+	ENDING_3
+}
